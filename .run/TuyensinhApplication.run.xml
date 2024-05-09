@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="TuyensinhApplication" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="com.thanhdong.tuyensinh.TuyensinhApplication" />
+    <module name="tuyensinh" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+      <option name="LaunchBrowser.Before.Run" url="http://localhost:8080/" />
+    </method>
+  </configuration>
+</component>
